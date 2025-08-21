@@ -5,7 +5,7 @@
        alt="Data Science and Full Stack Developer Banner" 
        height="200"/>
 
-<h1 align="center">Hi 👋, I'm Ravi Singh</h1>
+<h1 align="center">Hi 👋, I'm Ravi Kumar Singh</h1>
 <h3 align="center">A passionate Data Science & Full Stack Web App Developer from India</h3>
 
 <p align="left">
