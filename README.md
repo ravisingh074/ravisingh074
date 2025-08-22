@@ -64,10 +64,10 @@
 ## 🚀 Featured Projects  
 Here are some projects that show my skills in **Data Science & Web Development**:  
 
-- 📰 [Fake News Detection System](https://github.com/ravisingh074/Fake-News-Detection-System) → NLP + ML to classify fake vs real news  
-- 🌾 [Crop Recommendation System](https://github.com/) → ML model to suggest best crops based on soil data  
-- 🍕 [Pizza Sales Dashboard](https://github.com/) → Power BI dashboard with insights from sales data  
-- 📚 [Library Management System](https://github.com/) → SQL + Web App for managing books & users  
+-  [Fake News Detection System](https://github.com/ravisingh074/Fake-News-Detection-System) → NLP + ML to classify fake vs real news  
+-  [Crop Recommendation System](https://github.com/) → ML model to suggest best crops based on soil data  
+-  [BlinkIT Grocery Sales Analysis Dashboard](https://github.com/ravisingh074/BlinkIT-Grocery-Sales-Analysis-Dashboard) → Excel dashboard with insights from sales data  
+-  [Library Management System](https://github.com/) → SQL + Web App for managing books & users  
 
 ---
 
